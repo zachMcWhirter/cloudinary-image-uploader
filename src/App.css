@@ -11,9 +11,15 @@ img {
   border: blue 5px groove;
 }
 
+input {
+  background-color: silver;
+  font-family: fantasy;
+}
+
 .App {
   text-align: center;
   background-color: limegreen;
+  border: silver 3px groove;
 }
 
 .App-logo {
