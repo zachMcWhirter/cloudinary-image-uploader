@@ -1,5 +1,19 @@
+html {
+  background-color: #404040;
+  background: url(https://c4.wallpaperflare.com/wallpaper/224/650/497/abstract-pattern-floral-dark-background-wallpaper-preview.jpg);
+}
+
+div {
+  border: black 3px solid;
+}
+
+img {
+  border: blue 5px groove;
+}
+
 .App {
   text-align: center;
+  background-color: limegreen;
 }
 
 .App-logo {
